@@ -25,6 +25,6 @@ display most commonly used end station
 displays statistics on the total and average trip duration  
 display total travel time  
 displays statistics on bikeshare users  
-isplay counts of user types  
+display counts of user types  
 ## Main function 
 a main function is used to loop through the used functions and restart on user's command 
