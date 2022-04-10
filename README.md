@@ -15,16 +15,16 @@ same is applied for city/month/day
 #### load data 
 user input is then is taken and used to load target .csv file and filter day/month
 ## Statistics calculations 
-<font color='black'>- displays statistics on the most frequent times of travel.
-<font color='black'>- display the most common month
-<font color='black'>- display the most common day of week
-<font color='black'>- display the most common start hour
-<font color='black'>-displays statistics on the most popular stations and trip
-<font color='black'>-display most commonly used start station
-<font color='black'>-display most commonly used end station
-<font color='black'>-displays statistics on the total and average trip duration
-<font color='black'>-display total travel time
-<font color='black'>-displays statistics on bikeshare users
-<font color='black'>-display counts of user types
+<font color='black'>- displays statistics on the most frequent times of travel.</font>
+<font color='black'>- display the most common month</font>
+<font color='black'>- display the most common day of week</font>
+<font color='black'>- display the most common start hour</font>
+<font color='black'>-displays statistics on the most popular stations and trip</font>
+<font color='black'>-display most commonly used start station</font>
+<font color='black'>-display most commonly used end station</font>
+<font color='black'>-displays statistics on the total and average trip duration</font>
+<font color='black'>-display total travel time</font>
+<font color='black'>-displays statistics on bikeshare users</font>
+<font color='black'>-display counts of user types</font>
 ## Main function 
 a main function is used to loop through the used functions and restart on user's command 
